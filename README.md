@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there! 👋  
 
-<!--
-**francochifla/francochifla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Franco Silva, a Data Science student at UBA taking my first steps in the world of programming.  
 
-Here are some ideas to get you started:
+## About Me  
+- 🌱 **Currently Learning:** Python.  
+- 🔍 **Exploring:** Algorithms, data structures, and problem-solving techniques.  
+- 💡 **Interests:** Combining data science and coding to create impactful solutions.  
+- 🎨 **Fun Fact:** I'm also a design enthusiast in my free time!  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Looking for Opportunities  
+I'm currently seeking my first job in the tech industry to apply my skills, learn, and grow professionally. If you think we could work together, feel free to reach out!  
+
+## Let's Connect  
+Feel free to explore my repositories and reach out if you'd like to collaborate or discuss ideas.  
+- 📫 **How to reach me:** https://www.linkedin.com/in/francochifla/
+- 📫 **My graphic portfolio:** https://www.behance.net/francochifla/projects
+- 📫 **My email:** francotsilva03@gmail.com
