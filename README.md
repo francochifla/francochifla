@@ -1,18 +1,18 @@
-# ¡Hola! 👋  
+# Hi there! 👋  
 
-Soy Franco Silva, estudiante de **Ciencia de Datos** en la **UBA**, dando mis primeros pasos en el mundo de la programación.  
+I'm Franco Silva, a Data Science student at UBA taking my first steps in the world of programming.  
 
-## Sobre mí  
-- 🌱 **Actualmente aprendiendo:** Python.  
-- 🔍 **Explorando:** Algoritmos, estructuras de datos y técnicas de resolución de problemas.  
-- 💡 **Intereses:** Combinar la ciencia de datos y la programación para crear soluciones que generen impacto.  
-- 🎨 **Dato curioso:** ¡También soy un entusiasta del diseño en mi tiempo libre!  
+## About Me  
+- 🌱 **Currently Learning:** Python.  
+- 🔍 **Exploring:** Algorithms, data structures, and problem-solving techniques.  
+- 💡 **Interests:** Combining data science and coding to create impactful solutions.  
+- 🎨 **Fun Fact:** I'm also a design enthusiast in my free time!  
 
-## Buscando Oportunidades  
-Estoy en busca de mi **primer empleo en la industria tecnológica** para aplicar mis habilidades, aprender y crecer profesionalmente. Si pensás que podríamos trabajar juntos, ¡no dudes en contactarme!  
+## Looking for Opportunities  
+I'm currently seeking my first job in the tech industry to apply my skills, learn, and grow professionally. If you think we could work together, feel free to reach out!  
 
-## Conectemos  
-Explorá mis repositorios y escribime si te gustaría colaborar o intercambiar ideas.  
-- 📫 **Cómo contactarme:** [LinkedIn](https://www.linkedin.com/in/francochifla/)  
-- 📫 **Mi portafolio gráfico:** [Behance](https://www.behance.net/francochifla/projects)  
-- 📫 **Mi email:** francotsilva03@gmail.com  
+## Let's Connect  
+Feel free to explore my repositories and reach out if you'd like to collaborate or discuss ideas.  
+- 📫 **How to reach me:** https://www.linkedin.com/in/francochifla/
+- 📫 **My graphic portfolio:** https://www.behance.net/francochifla/projects
+- 📫 **My email:** francotsilva03@gmail.com
